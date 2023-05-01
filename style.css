@@ -1,0 +1,10 @@
+.container_wrapper {
+  width: 50%;
+  margin: auto;
+}
+.navbar-nav a {
+  margin-inline: 20px;
+}
+#navbarNavAltMarkup {
+  justify-content: center;
+}
