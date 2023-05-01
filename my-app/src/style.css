@@ -1,0 +1,44 @@
+body {
+  font-family: "century gothic" !important;
+  background: url("../src/media/img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container_wrapper {
+  gap: 30rem;
+}
+.navbar-nav a {
+  margin-inline: 20px;
+}
+#navbarNavAltMarkup {
+  justify-content: center;
+}
+.heading {
+  padding: 5rem;
+  width: 40%;
+  margin: auto;
+  border: 2px solid;
+  background-color: white;
+}
+.intro {
+  padding: 5rem;
+}
+
+.homepage_img {
+  padding: 5rem;
+}
+.handlebar {
+  padding: 5rem;
+  padding-bottom: 0px;
+}
+
+.handlebar_wrapper {
+  padding: 5rem;
+  background: white;
+  border: 2px solid;
+  width: 50%;
+  margin: auto;
+}
+.boardsketch {
+  width: 100%;
+}
